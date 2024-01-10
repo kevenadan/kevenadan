@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Olá, seja bem-vindo!</h1>
 
-<!--
-**kevenadan/kevenadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Sou um desenvolvedor focado em aprendizado contínuo, buscando sempre criar com criatividade e qualidade.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Minha pilha de tecnologia inclui:</h3>
+
+
+- Especialização em Spring Framework e Java
+- Experiência sólida em desenvolvimento de APIs REST
+- Habilidades em HTML, CSS e JavaScript
+- Conhecimentos básicos em React Framework
+
+  
+
